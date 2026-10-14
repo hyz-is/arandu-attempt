@@ -14,8 +14,8 @@ go 1.26.0
 retract v0.1.1
 
 require (
-	github.com/arandu-io/framework v0.50.2
-	github.com/arandu-io/hesape v0.48.0
+	github.com/arandu-io/framework v0.52.0
+	github.com/arandu-io/hesape v0.50.1
 )
 
 require (
